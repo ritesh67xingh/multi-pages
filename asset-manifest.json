@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-pages/static/css/main.86986d0c.css",
+    "main.js": "/multi-pages/static/js/main.934b7021.js",
+    "index.html": "/multi-pages/index.html",
+    "main.86986d0c.css.map": "/multi-pages/static/css/main.86986d0c.css.map",
+    "main.934b7021.js.map": "/multi-pages/static/js/main.934b7021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86986d0c.css",
+    "static/js/main.934b7021.js"
+  ]
+}
